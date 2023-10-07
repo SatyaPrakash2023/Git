@@ -4,3 +4,17 @@ git clone. ...
 git commit. ...
 git commit --amend. ...
 git config.
+git push
+git clone
+git branch
+git checkout
+git log
+git stash
+git revert
+git diff
+git merge
+git rebase
+git fetch
+git reset
+git pull
+So, let’s get started
